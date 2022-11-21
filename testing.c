@@ -10,10 +10,10 @@ int main(){
 
 for(i=0;i<b;i++ ){
 
-for(int j = i + 1; j < b; j++) {    
+for(int c = i + 1; c < b; c++) {    
 
- if(a[i] == a[j]) {
-     printf("%d\n", a[j]);  
+ if(a[i] == a[c]) {
+     printf("%d\n", a[c]);  
  }
 
 }       
