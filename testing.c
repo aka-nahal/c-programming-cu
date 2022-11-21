@@ -16,7 +16,7 @@ for(int j = i + 1; j < b; j++) {
      printf("%d\n", a[j]);  
  }
 
-}
+}       
 }
 
  
