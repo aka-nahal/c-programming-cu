@@ -15,6 +15,8 @@ for(int i=0;i<2;i++){
     
 }}
 
+printf("Entered Values - \n");
+
 // for output
 for(int i=0;i<2;i++){
 
