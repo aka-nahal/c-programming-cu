@@ -19,7 +19,7 @@ int main(){
 while(1){
 
     printf(" \n 1.String Length \n 2.String Copy \n 3.String Comparision \n 4.String Concatenation \n 5.Reverse \n 6.Exit");
-    printf("Enter the corresonponding to number to execute the the desired program");
+    printf(" \n Enter the corresonponding to number to execute the the desired program" \n);
     scanf("%d",&a);
 
     switch(a)
