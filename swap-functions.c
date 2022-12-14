@@ -27,6 +27,7 @@ void swap1(int * num1, int * num2){
     printf("After swapped values :- \n");
     printf("num1= %d \n ",num1);
     printf("num2= %d \n",num2);
+    return swap1;
 }
 
 
