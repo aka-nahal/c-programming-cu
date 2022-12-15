@@ -14,7 +14,10 @@ function of & :- used to return the address of the varible.
   4. subraction :- new address = current address - (number*size of data type)
 
   */
+
 #include<stdio.h>
+
+
 int increment(){
  int a=10;
  int *p;
@@ -38,6 +41,7 @@ int decrement(){
 
     return 0;
 }
+
 int addition(){
  int a=10;
  int *p;
@@ -49,6 +53,7 @@ int addition(){
 
     return 0;
 }
+
 int subraction(){
  int a=10;
  int *p;
@@ -60,6 +65,7 @@ int subraction(){
 
     return 0;
 }
+
 int main(){
     
     increment();
