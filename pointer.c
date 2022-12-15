@@ -10,8 +10,8 @@ function of & :- used to return the address of the varible.
  Pointer arithemetic operations:-
   1. increment :-  new address = current address + (i*size of data type) syntax = p = p+1;
   2. decrement :-  new address = current address - (i*size of data type) syntax = p = p-1;
-  3. addition :-   new address = current address - (number*size of data type)
-  4. subraction :- 
+  3. addition :-   new address = current address + (number*size of data type)
+  4. subraction :- new address = current address - (number*size of data type)
 
   */
 #include<stdio.h>
